@@ -1,5 +1,4 @@
 # Find-Your-Doctor
-![alternate text]("https://user-images.githubusercontent.com/73349138/102014800-de9d7700-3d7d-11eb-96d2-8096fd35d398.PNG")
 
 **Aim**
 
